@@ -2,3 +2,9 @@
 
 A python library consists of several stand alone python scripts majorly useful
 for quantum chemical, free energy estimations, QM/MM calculations.
+
+Existing projects:
+
+1. GAUSSIAN_PROJ
+2. PDB_PROJ
+3. QMMM_PROJ
