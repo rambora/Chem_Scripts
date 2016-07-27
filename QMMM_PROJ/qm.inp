@@ -1,0 +1,12 @@
+%NProc=8
+%MEM=8GB
+%Chk=/tmp/Check.file10402
+# b3lyp/6-31+G*  force pop=(mk) NoSymm SCF=(Conver=5)
+
+snapshot of MD step 0
+
+1 1
+O     7.7820000000   -0.6800000000  -55.0390000000
+H     7.3780000000   -0.6750000000  -55.9490000000
+
+
