@@ -1,6 +1,6 @@
 # Chem_Scripts
 
-A python library consists of several stand alone python scripts majorly useful
+This folder consists of several stand alone python scripts majorly useful
 for quantum chemical, free energy estimations, QM/MM calculations.
 
 Existing projects:
